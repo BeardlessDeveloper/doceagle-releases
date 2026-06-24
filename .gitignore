@@ -1,0 +1,14 @@
+# Ignore everything by default. This repo is for public release artifacts only.
+*
+
+# Repo metadata/docs.
+!.gitignore
+!README.md
+
+# Electron release artifacts copied from ../a1-app/dist.
+!dist/
+dist/*
+!dist/DocEagle-Setup-*.exe
+!dist/DocEagle-Setup-*.exe.blockmap
+!dist/DocEagle-Portable-*.exe
+!dist/latest.yml
