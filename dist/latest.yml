@@ -1,8 +1,8 @@
-version: 0.1.12
+version: 0.1.13
 files:
-  - url: DocEagle-Setup-0.1.12-x64.exe
-    sha512: ZV3BWz9z/82JkzqvZZ/aoOK0Svwhv4Q1L0g+qEyf/UNn7zLKdRJzwT10LNJ02R6Xz9e7JZQRZeOJMAp4J2J+qw==
-    size: 103050227
-path: DocEagle-Setup-0.1.12-x64.exe
-sha512: ZV3BWz9z/82JkzqvZZ/aoOK0Svwhv4Q1L0g+qEyf/UNn7zLKdRJzwT10LNJ02R6Xz9e7JZQRZeOJMAp4J2J+qw==
-releaseDate: '2026-06-25T00:57:52.228Z'
+  - url: DocEagle-Setup-0.1.13-x64.exe
+    sha512: loJxh5JsYdDY6EoZAVE3XEQ3OSGXT1jkWaEZwVGcC/C+wznbKGhwTFs+SPbvvpiZ276jV71o0wjqO+s74up81Q==
+    size: 103050420
+path: DocEagle-Setup-0.1.13-x64.exe
+sha512: loJxh5JsYdDY6EoZAVE3XEQ3OSGXT1jkWaEZwVGcC/C+wznbKGhwTFs+SPbvvpiZ276jV71o0wjqO+s74up81Q==
+releaseDate: '2026-06-29T15:45:19.089Z'
