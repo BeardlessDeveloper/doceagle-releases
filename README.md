@@ -1,13 +1,6 @@
 # DocEagle Releases
 
-Public release-artifact repository for DocEagle.
+Public release repository for DocEagle.
 
-This repository is intentionally release-only. It should contain packaged Electron build outputs, not DocEagle source code.
-
-Expected artifacts live under `dist/`:
-
-- `DocEagle-Setup-<version>-x64.exe`
-- `DocEagle-Setup-<version>-x64.exe.blockmap`
-- `DocEagle-Portable-<version>-x64.exe`
-- `latest.yml`
-
+This repository should stay essentially empty. Packaged Electron outputs are
+uploaded to GitHub Releases as release assets, not committed to git.

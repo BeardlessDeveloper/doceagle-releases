@@ -1,14 +1,7 @@
-# Ignore everything by default. This repo is for public release artifacts only.
+# Ignore everything by default. Release binaries are uploaded as GitHub
+# Release assets, not committed to this repository.
 *
 
 # Repo metadata/docs.
 !.gitignore
 !README.md
-
-# Electron release artifacts copied from ../a1-app/dist.
-!dist/
-dist/*
-!dist/DocEagle-Setup-*.exe
-!dist/DocEagle-Setup-*.exe.blockmap
-!dist/DocEagle-Portable-*.exe
-!dist/latest.yml
